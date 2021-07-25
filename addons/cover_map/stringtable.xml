@@ -3,6 +3,8 @@
     <Package name="Cover_Map">
         <Key ID="STR_ZEN_Cover_Map_Area_Tooltip">
             <English>Left-click to interact with the cover map area (shaded red).\nClicking inside the area will move it and clicking outside it will create a new area.</English>
+            <Chinese>點擊左鍵已與地圖上的覆蓋區域互動\n點擊該區域內將移動它，點擊外部將創建一個新區域</Chinese>
+            <Chinesesimp>点击左键已与地图上的覆盖区域互动\n点击该区域内将移动它，点击外部将创建一个新区域 </Chinesesimp>
         </Key>
     </Package>
 </Project>
